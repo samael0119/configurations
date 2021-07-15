@@ -1,2 +1,2 @@
-# configs
+# configurations
 各种程序的配置文件
